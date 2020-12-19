@@ -1,0 +1,3 @@
+
+cachesimulator: cachesimulator.cpp
+	g++ -std=c++11 -ggdb -I include src -o bin/cachesimulator.out
